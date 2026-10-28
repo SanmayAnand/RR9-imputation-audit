@@ -1,0 +1,6 @@
+check,value
+reproduction_corr_with_published_mice,0.9995279243481545
+permutation_p_RNA-seq_with_group_input,0.000999000999000999
+permutation_p_TUNEL_with_group_input,0.000999000999000999
+permutation_p_RNA-seq_without_group_input,0.000999000999000999
+permutation_p_TUNEL_without_group_input,0.000999000999000999

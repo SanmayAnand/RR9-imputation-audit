@@ -1,0 +1,4 @@
+setting,held_out_accuracy,count
+KNN-augmented,0.75625,160
+MICE-Elastic-augmented,0.78125,160
+Real animals only,0.8625,160

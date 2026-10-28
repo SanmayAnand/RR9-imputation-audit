@@ -1,0 +1,481 @@
+setting,repeat,fold,seed,animal,correct
+Real animals only,0,0,0,7,1
+Real animals only,0,0,0,9,1
+Real animals only,0,0,0,72,0
+Real animals only,0,0,0,67,1
+Real animals only,0,0,1,7,1
+Real animals only,0,0,1,9,1
+Real animals only,0,0,1,72,1
+Real animals only,0,0,1,67,1
+Real animals only,0,0,2,7,1
+Real animals only,0,0,2,9,0
+Real animals only,0,0,2,72,1
+Real animals only,0,0,2,67,1
+Real animals only,0,0,3,7,1
+Real animals only,0,0,3,9,1
+Real animals only,0,0,3,72,0
+Real animals only,0,0,3,67,1
+Real animals only,0,0,4,7,1
+Real animals only,0,0,4,9,0
+Real animals only,0,0,4,72,1
+Real animals only,0,0,4,67,1
+KNN-augmented,0,0,0,7,1
+KNN-augmented,0,0,0,9,0
+KNN-augmented,0,0,0,72,1
+KNN-augmented,0,0,0,67,1
+KNN-augmented,0,0,1,7,1
+KNN-augmented,0,0,1,9,0
+KNN-augmented,0,0,1,72,1
+KNN-augmented,0,0,1,67,1
+KNN-augmented,0,0,2,7,1
+KNN-augmented,0,0,2,9,0
+KNN-augmented,0,0,2,72,1
+KNN-augmented,0,0,2,67,1
+KNN-augmented,0,0,3,7,1
+KNN-augmented,0,0,3,9,0
+KNN-augmented,0,0,3,72,1
+KNN-augmented,0,0,3,67,1
+KNN-augmented,0,0,4,7,1
+KNN-augmented,0,0,4,9,0
+KNN-augmented,0,0,4,72,1
+KNN-augmented,0,0,4,67,1
+MICE-Elastic-augmented,0,0,0,7,1
+MICE-Elastic-augmented,0,0,0,9,1
+MICE-Elastic-augmented,0,0,0,72,1
+MICE-Elastic-augmented,0,0,0,67,1
+MICE-Elastic-augmented,0,0,1,7,1
+MICE-Elastic-augmented,0,0,1,9,1
+MICE-Elastic-augmented,0,0,1,72,1
+MICE-Elastic-augmented,0,0,1,67,1
+MICE-Elastic-augmented,0,0,2,7,1
+MICE-Elastic-augmented,0,0,2,9,1
+MICE-Elastic-augmented,0,0,2,72,0
+MICE-Elastic-augmented,0,0,2,67,1
+MICE-Elastic-augmented,0,0,3,7,1
+MICE-Elastic-augmented,0,0,3,9,1
+MICE-Elastic-augmented,0,0,3,72,1
+MICE-Elastic-augmented,0,0,3,67,1
+MICE-Elastic-augmented,0,0,4,7,1
+MICE-Elastic-augmented,0,0,4,9,1
+MICE-Elastic-augmented,0,0,4,72,1
+MICE-Elastic-augmented,0,0,4,67,1
+Real animals only,0,1,0,8,1
+Real animals only,0,1,0,12,0
+Real animals only,0,1,0,79,1
+Real animals only,0,1,0,69,1
+Real animals only,0,1,1,8,1
+Real animals only,0,1,1,12,0
+Real animals only,0,1,1,79,1
+Real animals only,0,1,1,69,1
+Real animals only,0,1,2,8,1
+Real animals only,0,1,2,12,0
+Real animals only,0,1,2,79,1
+Real animals only,0,1,2,69,1
+Real animals only,0,1,3,8,1
+Real animals only,0,1,3,12,0
+Real animals only,0,1,3,79,1
+Real animals only,0,1,3,69,1
+Real animals only,0,1,4,8,1
+Real animals only,0,1,4,12,1
+Real animals only,0,1,4,79,1
+Real animals only,0,1,4,69,1
+KNN-augmented,0,1,0,8,1
+KNN-augmented,0,1,0,12,1
+KNN-augmented,0,1,0,79,1
+KNN-augmented,0,1,0,69,1
+KNN-augmented,0,1,1,8,1
+KNN-augmented,0,1,1,12,1
+KNN-augmented,0,1,1,79,1
+KNN-augmented,0,1,1,69,1
+KNN-augmented,0,1,2,8,1
+KNN-augmented,0,1,2,12,1
+KNN-augmented,0,1,2,79,1
+KNN-augmented,0,1,2,69,1
+KNN-augmented,0,1,3,8,1
+KNN-augmented,0,1,3,12,1
+KNN-augmented,0,1,3,79,1
+KNN-augmented,0,1,3,69,1
+KNN-augmented,0,1,4,8,1
+KNN-augmented,0,1,4,12,1
+KNN-augmented,0,1,4,79,1
+KNN-augmented,0,1,4,69,1
+MICE-Elastic-augmented,0,1,0,8,1
+MICE-Elastic-augmented,0,1,0,12,0
+MICE-Elastic-augmented,0,1,0,79,1
+MICE-Elastic-augmented,0,1,0,69,1
+MICE-Elastic-augmented,0,1,1,8,1
+MICE-Elastic-augmented,0,1,1,12,0
+MICE-Elastic-augmented,0,1,1,79,1
+MICE-Elastic-augmented,0,1,1,69,1
+MICE-Elastic-augmented,0,1,2,8,1
+MICE-Elastic-augmented,0,1,2,12,0
+MICE-Elastic-augmented,0,1,2,79,1
+MICE-Elastic-augmented,0,1,2,69,1
+MICE-Elastic-augmented,0,1,3,8,1
+MICE-Elastic-augmented,0,1,3,12,0
+MICE-Elastic-augmented,0,1,3,79,1
+MICE-Elastic-augmented,0,1,3,69,1
+MICE-Elastic-augmented,0,1,4,8,1
+MICE-Elastic-augmented,0,1,4,12,0
+MICE-Elastic-augmented,0,1,4,79,1
+MICE-Elastic-augmented,0,1,4,69,1
+Real animals only,0,2,0,10,1
+Real animals only,0,2,0,2,1
+Real animals only,0,2,0,70,1
+Real animals only,0,2,0,66,1
+Real animals only,0,2,1,10,1
+Real animals only,0,2,1,2,1
+Real animals only,0,2,1,70,1
+Real animals only,0,2,1,66,1
+Real animals only,0,2,2,10,1
+Real animals only,0,2,2,2,1
+Real animals only,0,2,2,70,1
+Real animals only,0,2,2,66,1
+Real animals only,0,2,3,10,1
+Real animals only,0,2,3,2,1
+Real animals only,0,2,3,70,1
+Real animals only,0,2,3,66,1
+Real animals only,0,2,4,10,1
+Real animals only,0,2,4,2,1
+Real animals only,0,2,4,70,1
+Real animals only,0,2,4,66,1
+KNN-augmented,0,2,0,10,0
+KNN-augmented,0,2,0,2,1
+KNN-augmented,0,2,0,70,1
+KNN-augmented,0,2,0,66,1
+KNN-augmented,0,2,1,10,0
+KNN-augmented,0,2,1,2,1
+KNN-augmented,0,2,1,70,1
+KNN-augmented,0,2,1,66,1
+KNN-augmented,0,2,2,10,0
+KNN-augmented,0,2,2,2,1
+KNN-augmented,0,2,2,70,1
+KNN-augmented,0,2,2,66,1
+KNN-augmented,0,2,3,10,0
+KNN-augmented,0,2,3,2,1
+KNN-augmented,0,2,3,70,1
+KNN-augmented,0,2,3,66,1
+KNN-augmented,0,2,4,10,0
+KNN-augmented,0,2,4,2,1
+KNN-augmented,0,2,4,70,1
+KNN-augmented,0,2,4,66,1
+MICE-Elastic-augmented,0,2,0,10,1
+MICE-Elastic-augmented,0,2,0,2,1
+MICE-Elastic-augmented,0,2,0,70,1
+MICE-Elastic-augmented,0,2,0,66,1
+MICE-Elastic-augmented,0,2,1,10,1
+MICE-Elastic-augmented,0,2,1,2,1
+MICE-Elastic-augmented,0,2,1,70,1
+MICE-Elastic-augmented,0,2,1,66,1
+MICE-Elastic-augmented,0,2,2,10,1
+MICE-Elastic-augmented,0,2,2,2,1
+MICE-Elastic-augmented,0,2,2,70,1
+MICE-Elastic-augmented,0,2,2,66,1
+MICE-Elastic-augmented,0,2,3,10,1
+MICE-Elastic-augmented,0,2,3,2,1
+MICE-Elastic-augmented,0,2,3,70,1
+MICE-Elastic-augmented,0,2,3,66,1
+MICE-Elastic-augmented,0,2,4,10,1
+MICE-Elastic-augmented,0,2,4,2,1
+MICE-Elastic-augmented,0,2,4,70,1
+MICE-Elastic-augmented,0,2,4,66,1
+Real animals only,0,3,0,6,1
+Real animals only,0,3,0,19,1
+Real animals only,0,3,0,62,0
+Real animals only,0,3,0,68,1
+Real animals only,0,3,1,6,1
+Real animals only,0,3,1,19,1
+Real animals only,0,3,1,62,0
+Real animals only,0,3,1,68,1
+Real animals only,0,3,2,6,1
+Real animals only,0,3,2,19,1
+Real animals only,0,3,2,62,0
+Real animals only,0,3,2,68,1
+Real animals only,0,3,3,6,1
+Real animals only,0,3,3,19,1
+Real animals only,0,3,3,62,1
+Real animals only,0,3,3,68,1
+Real animals only,0,3,4,6,1
+Real animals only,0,3,4,19,1
+Real animals only,0,3,4,62,0
+Real animals only,0,3,4,68,1
+KNN-augmented,0,3,0,6,1
+KNN-augmented,0,3,0,19,0
+KNN-augmented,0,3,0,62,1
+KNN-augmented,0,3,0,68,1
+KNN-augmented,0,3,1,6,1
+KNN-augmented,0,3,1,19,0
+KNN-augmented,0,3,1,62,1
+KNN-augmented,0,3,1,68,1
+KNN-augmented,0,3,2,6,1
+KNN-augmented,0,3,2,19,0
+KNN-augmented,0,3,2,62,1
+KNN-augmented,0,3,2,68,1
+KNN-augmented,0,3,3,6,1
+KNN-augmented,0,3,3,19,0
+KNN-augmented,0,3,3,62,1
+KNN-augmented,0,3,3,68,1
+KNN-augmented,0,3,4,6,1
+KNN-augmented,0,3,4,19,0
+KNN-augmented,0,3,4,62,1
+KNN-augmented,0,3,4,68,1
+MICE-Elastic-augmented,0,3,0,6,1
+MICE-Elastic-augmented,0,3,0,19,1
+MICE-Elastic-augmented,0,3,0,62,0
+MICE-Elastic-augmented,0,3,0,68,1
+MICE-Elastic-augmented,0,3,1,6,1
+MICE-Elastic-augmented,0,3,1,19,1
+MICE-Elastic-augmented,0,3,1,62,0
+MICE-Elastic-augmented,0,3,1,68,1
+MICE-Elastic-augmented,0,3,2,6,1
+MICE-Elastic-augmented,0,3,2,19,1
+MICE-Elastic-augmented,0,3,2,62,0
+MICE-Elastic-augmented,0,3,2,68,1
+MICE-Elastic-augmented,0,3,3,6,1
+MICE-Elastic-augmented,0,3,3,19,1
+MICE-Elastic-augmented,0,3,3,62,0
+MICE-Elastic-augmented,0,3,3,68,1
+MICE-Elastic-augmented,0,3,4,6,1
+MICE-Elastic-augmented,0,3,4,19,1
+MICE-Elastic-augmented,0,3,4,62,0
+MICE-Elastic-augmented,0,3,4,68,1
+Real animals only,1,0,0,8,1
+Real animals only,1,0,0,7,1
+Real animals only,1,0,0,70,1
+Real animals only,1,0,0,69,1
+Real animals only,1,0,1,8,1
+Real animals only,1,0,1,7,1
+Real animals only,1,0,1,70,1
+Real animals only,1,0,1,69,1
+Real animals only,1,0,2,8,1
+Real animals only,1,0,2,7,1
+Real animals only,1,0,2,70,1
+Real animals only,1,0,2,69,1
+Real animals only,1,0,3,8,1
+Real animals only,1,0,3,7,1
+Real animals only,1,0,3,70,1
+Real animals only,1,0,3,69,1
+Real animals only,1,0,4,8,1
+Real animals only,1,0,4,7,1
+Real animals only,1,0,4,70,1
+Real animals only,1,0,4,69,1
+KNN-augmented,1,0,0,8,1
+KNN-augmented,1,0,0,7,0
+KNN-augmented,1,0,0,70,1
+KNN-augmented,1,0,0,69,1
+KNN-augmented,1,0,1,8,1
+KNN-augmented,1,0,1,7,0
+KNN-augmented,1,0,1,70,1
+KNN-augmented,1,0,1,69,1
+KNN-augmented,1,0,2,8,1
+KNN-augmented,1,0,2,7,0
+KNN-augmented,1,0,2,70,1
+KNN-augmented,1,0,2,69,1
+KNN-augmented,1,0,3,8,1
+KNN-augmented,1,0,3,7,0
+KNN-augmented,1,0,3,70,1
+KNN-augmented,1,0,3,69,1
+KNN-augmented,1,0,4,8,1
+KNN-augmented,1,0,4,7,0
+KNN-augmented,1,0,4,70,1
+KNN-augmented,1,0,4,69,1
+MICE-Elastic-augmented,1,0,0,8,1
+MICE-Elastic-augmented,1,0,0,7,0
+MICE-Elastic-augmented,1,0,0,70,1
+MICE-Elastic-augmented,1,0,0,69,0
+MICE-Elastic-augmented,1,0,1,8,0
+MICE-Elastic-augmented,1,0,1,7,0
+MICE-Elastic-augmented,1,0,1,70,1
+MICE-Elastic-augmented,1,0,1,69,0
+MICE-Elastic-augmented,1,0,2,8,1
+MICE-Elastic-augmented,1,0,2,7,0
+MICE-Elastic-augmented,1,0,2,70,1
+MICE-Elastic-augmented,1,0,2,69,1
+MICE-Elastic-augmented,1,0,3,8,1
+MICE-Elastic-augmented,1,0,3,7,0
+MICE-Elastic-augmented,1,0,3,70,1
+MICE-Elastic-augmented,1,0,3,69,0
+MICE-Elastic-augmented,1,0,4,8,0
+MICE-Elastic-augmented,1,0,4,7,1
+MICE-Elastic-augmented,1,0,4,70,1
+MICE-Elastic-augmented,1,0,4,69,1
+Real animals only,1,1,0,6,1
+Real animals only,1,1,0,19,1
+Real animals only,1,1,0,68,1
+Real animals only,1,1,0,62,0
+Real animals only,1,1,1,6,1
+Real animals only,1,1,1,19,1
+Real animals only,1,1,1,68,1
+Real animals only,1,1,1,62,0
+Real animals only,1,1,2,6,1
+Real animals only,1,1,2,19,1
+Real animals only,1,1,2,68,1
+Real animals only,1,1,2,62,0
+Real animals only,1,1,3,6,1
+Real animals only,1,1,3,19,1
+Real animals only,1,1,3,68,1
+Real animals only,1,1,3,62,1
+Real animals only,1,1,4,6,1
+Real animals only,1,1,4,19,1
+Real animals only,1,1,4,68,1
+Real animals only,1,1,4,62,0
+KNN-augmented,1,1,0,6,1
+KNN-augmented,1,1,0,19,0
+KNN-augmented,1,1,0,68,1
+KNN-augmented,1,1,0,62,1
+KNN-augmented,1,1,1,6,1
+KNN-augmented,1,1,1,19,0
+KNN-augmented,1,1,1,68,1
+KNN-augmented,1,1,1,62,1
+KNN-augmented,1,1,2,6,1
+KNN-augmented,1,1,2,19,0
+KNN-augmented,1,1,2,68,1
+KNN-augmented,1,1,2,62,1
+KNN-augmented,1,1,3,6,1
+KNN-augmented,1,1,3,19,0
+KNN-augmented,1,1,3,68,1
+KNN-augmented,1,1,3,62,1
+KNN-augmented,1,1,4,6,1
+KNN-augmented,1,1,4,19,0
+KNN-augmented,1,1,4,68,1
+KNN-augmented,1,1,4,62,1
+MICE-Elastic-augmented,1,1,0,6,1
+MICE-Elastic-augmented,1,1,0,19,1
+MICE-Elastic-augmented,1,1,0,68,1
+MICE-Elastic-augmented,1,1,0,62,0
+MICE-Elastic-augmented,1,1,1,6,1
+MICE-Elastic-augmented,1,1,1,19,1
+MICE-Elastic-augmented,1,1,1,68,1
+MICE-Elastic-augmented,1,1,1,62,0
+MICE-Elastic-augmented,1,1,2,6,1
+MICE-Elastic-augmented,1,1,2,19,1
+MICE-Elastic-augmented,1,1,2,68,1
+MICE-Elastic-augmented,1,1,2,62,0
+MICE-Elastic-augmented,1,1,3,6,1
+MICE-Elastic-augmented,1,1,3,19,1
+MICE-Elastic-augmented,1,1,3,68,1
+MICE-Elastic-augmented,1,1,3,62,0
+MICE-Elastic-augmented,1,1,4,6,1
+MICE-Elastic-augmented,1,1,4,19,1
+MICE-Elastic-augmented,1,1,4,68,1
+MICE-Elastic-augmented,1,1,4,62,0
+Real animals only,1,2,0,12,0
+Real animals only,1,2,0,2,1
+Real animals only,1,2,0,79,1
+Real animals only,1,2,0,67,1
+Real animals only,1,2,1,12,0
+Real animals only,1,2,1,2,1
+Real animals only,1,2,1,79,1
+Real animals only,1,2,1,67,1
+Real animals only,1,2,2,12,0
+Real animals only,1,2,2,2,1
+Real animals only,1,2,2,79,1
+Real animals only,1,2,2,67,1
+Real animals only,1,2,3,12,0
+Real animals only,1,2,3,2,1
+Real animals only,1,2,3,79,1
+Real animals only,1,2,3,67,1
+Real animals only,1,2,4,12,1
+Real animals only,1,2,4,2,1
+Real animals only,1,2,4,79,1
+Real animals only,1,2,4,67,1
+KNN-augmented,1,2,0,12,0
+KNN-augmented,1,2,0,2,1
+KNN-augmented,1,2,0,79,1
+KNN-augmented,1,2,0,67,1
+KNN-augmented,1,2,1,12,0
+KNN-augmented,1,2,1,2,1
+KNN-augmented,1,2,1,79,1
+KNN-augmented,1,2,1,67,1
+KNN-augmented,1,2,2,12,1
+KNN-augmented,1,2,2,2,1
+KNN-augmented,1,2,2,79,1
+KNN-augmented,1,2,2,67,1
+KNN-augmented,1,2,3,12,0
+KNN-augmented,1,2,3,2,1
+KNN-augmented,1,2,3,79,1
+KNN-augmented,1,2,3,67,1
+KNN-augmented,1,2,4,12,0
+KNN-augmented,1,2,4,2,1
+KNN-augmented,1,2,4,79,1
+KNN-augmented,1,2,4,67,1
+MICE-Elastic-augmented,1,2,0,12,1
+MICE-Elastic-augmented,1,2,0,2,1
+MICE-Elastic-augmented,1,2,0,79,1
+MICE-Elastic-augmented,1,2,0,67,1
+MICE-Elastic-augmented,1,2,1,12,1
+MICE-Elastic-augmented,1,2,1,2,1
+MICE-Elastic-augmented,1,2,1,79,1
+MICE-Elastic-augmented,1,2,1,67,1
+MICE-Elastic-augmented,1,2,2,12,1
+MICE-Elastic-augmented,1,2,2,2,1
+MICE-Elastic-augmented,1,2,2,79,1
+MICE-Elastic-augmented,1,2,2,67,1
+MICE-Elastic-augmented,1,2,3,12,1
+MICE-Elastic-augmented,1,2,3,2,1
+MICE-Elastic-augmented,1,2,3,79,1
+MICE-Elastic-augmented,1,2,3,67,1
+MICE-Elastic-augmented,1,2,4,12,1
+MICE-Elastic-augmented,1,2,4,2,1
+MICE-Elastic-augmented,1,2,4,79,1
+MICE-Elastic-augmented,1,2,4,67,1
+Real animals only,1,3,0,10,1
+Real animals only,1,3,0,9,1
+Real animals only,1,3,0,66,1
+Real animals only,1,3,0,72,1
+Real animals only,1,3,1,10,1
+Real animals only,1,3,1,9,1
+Real animals only,1,3,1,66,1
+Real animals only,1,3,1,72,1
+Real animals only,1,3,2,10,1
+Real animals only,1,3,2,9,0
+Real animals only,1,3,2,66,1
+Real animals only,1,3,2,72,1
+Real animals only,1,3,3,10,1
+Real animals only,1,3,3,9,0
+Real animals only,1,3,3,66,1
+Real animals only,1,3,3,72,1
+Real animals only,1,3,4,10,1
+Real animals only,1,3,4,9,1
+Real animals only,1,3,4,66,1
+Real animals only,1,3,4,72,1
+KNN-augmented,1,3,0,10,0
+KNN-augmented,1,3,0,9,0
+KNN-augmented,1,3,0,66,1
+KNN-augmented,1,3,0,72,1
+KNN-augmented,1,3,1,10,0
+KNN-augmented,1,3,1,9,0
+KNN-augmented,1,3,1,66,1
+KNN-augmented,1,3,1,72,1
+KNN-augmented,1,3,2,10,0
+KNN-augmented,1,3,2,9,0
+KNN-augmented,1,3,2,66,1
+KNN-augmented,1,3,2,72,1
+KNN-augmented,1,3,3,10,0
+KNN-augmented,1,3,3,9,0
+KNN-augmented,1,3,3,66,1
+KNN-augmented,1,3,3,72,1
+KNN-augmented,1,3,4,10,0
+KNN-augmented,1,3,4,9,0
+KNN-augmented,1,3,4,66,1
+KNN-augmented,1,3,4,72,1
+MICE-Elastic-augmented,1,3,0,10,0
+MICE-Elastic-augmented,1,3,0,9,0
+MICE-Elastic-augmented,1,3,0,66,1
+MICE-Elastic-augmented,1,3,0,72,1
+MICE-Elastic-augmented,1,3,1,10,0
+MICE-Elastic-augmented,1,3,1,9,0
+MICE-Elastic-augmented,1,3,1,66,1
+MICE-Elastic-augmented,1,3,1,72,1
+MICE-Elastic-augmented,1,3,2,10,0
+MICE-Elastic-augmented,1,3,2,9,0
+MICE-Elastic-augmented,1,3,2,66,1
+MICE-Elastic-augmented,1,3,2,72,1
+MICE-Elastic-augmented,1,3,3,10,0
+MICE-Elastic-augmented,1,3,3,9,0
+MICE-Elastic-augmented,1,3,3,66,1
+MICE-Elastic-augmented,1,3,3,72,1
+MICE-Elastic-augmented,1,3,4,10,0
+MICE-Elastic-augmented,1,3,4,9,0
+MICE-Elastic-augmented,1,3,4,66,1
+MICE-Elastic-augmented,1,3,4,72,1
